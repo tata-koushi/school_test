@@ -1,7 +1,5 @@
 # school_test
 
-<<<<<<< HEAD
+## test
+
 あああ
-=======
-## testtest
->>>>>>> origin/main
